@@ -1,0 +1,30 @@
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\bin\Debug\Grakolejna.exe.config
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\bin\Debug\Grakolejna.exe
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\bin\Debug\Grakolejna.pdb
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\obj\Debug\Grakolejna.csproj.AssemblyReference.cache
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\obj\Debug\Grakolejna.Form1.resources
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\obj\Debug\Grakolejna.Properties.Resources.resources
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\obj\Debug\Grakolejna.csproj.GenerateResource.cache
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\obj\Debug\Grakolejna.csproj.CoreCompileInputs.cache
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\obj\Debug\Grakolejna.exe
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\obj\Debug\Grakolejna.pdb
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\bin\Debug\Interop.WMPLib.dll
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\obj\Debug\Interop.WMPLib.dll
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Surface\source\repos\Grakolejna\Grakolejna\obj\Debug\Grakolejna.csproj.ResolveComReference.cache
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\bin\Debug\Grakolejna.exe.config
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\bin\Debug\Grakolejna.exe
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\bin\Debug\Grakolejna.pdb
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\bin\Debug\Interop.WMPLib.dll
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\obj\Debug\Grakolejna.csproj.AssemblyReference.cache
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\obj\Debug\Interop.WMPLib.dll
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\obj\Debug\Grakolejna.csproj.ResolveComReference.cache
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\obj\Debug\Grakolejna.Form1.resources
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\obj\Debug\Grakolejna.Properties.Resources.resources
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\obj\Debug\Grakolejna.csproj.GenerateResource.cache
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\obj\Debug\Grakolejna.csproj.CoreCompileInputs.cache
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\obj\Debug\Grakolejna.exe
+C:\Users\Surface\Desktop\w końcu gra\Grakolejna\Grakolejna\obj\Debug\Grakolejna.pdb
